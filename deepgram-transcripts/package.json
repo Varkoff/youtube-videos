@@ -1,0 +1,14 @@
+{
+  "name": "deepgram-transcript",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@deepgram/sdk": "^3.1.9"
+  }
+}
